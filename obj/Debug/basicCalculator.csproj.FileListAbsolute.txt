@@ -1,0 +1,10 @@
+E:\cSharpLearning\basicCalculator\basicCalculator\bin\Debug\basicCalculator.exe.config
+E:\cSharpLearning\basicCalculator\basicCalculator\bin\Debug\basicCalculator.exe
+E:\cSharpLearning\basicCalculator\basicCalculator\bin\Debug\basicCalculator.pdb
+E:\cSharpLearning\basicCalculator\basicCalculator\obj\Debug\basicCalculator.csproj.AssemblyReference.cache
+E:\cSharpLearning\basicCalculator\basicCalculator\obj\Debug\basicCalculator.Properties.Resources.resources
+E:\cSharpLearning\basicCalculator\basicCalculator\obj\Debug\basicCalculator.csproj.GenerateResource.cache
+E:\cSharpLearning\basicCalculator\basicCalculator\obj\Debug\basicCalculator.csproj.CoreCompileInputs.cache
+E:\cSharpLearning\basicCalculator\basicCalculator\obj\Debug\basicCalculator.exe
+E:\cSharpLearning\basicCalculator\basicCalculator\obj\Debug\basicCalculator.pdb
+E:\cSharpLearning\basicCalculator\basicCalculator\obj\Debug\basicCalculator.Form.resources
